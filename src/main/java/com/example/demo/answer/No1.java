@@ -15,7 +15,7 @@ import java.util.Set;
      */
 public class No1 {
     public static void main(String[] args){
-        int [] nums={1,2,5,2,1,6,6};
+        int [] nums={1,2,5,2,5,6,6};
         int no1=singleNumber1(nums);
         int no2=singleNumber2(nums);
         int no3=singleNumber3(nums);
